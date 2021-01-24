@@ -1,5 +1,4 @@
 <script>
-    import {GAME_TICK} from './config';
     import {printHelp} from './utils';
     import scenes from './scenes/index.js';
     import SceneDescription from './SceneDescription.svelte';
